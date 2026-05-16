@@ -405,7 +405,7 @@ def menu_principal():
     while True:
         limpiar_consola()
         print("========================================")
-        print("      FARMASYS ERP - DASHBOARD          ")
+        print("             FARMASYS ERP               ")
         print("========================================")
         print("1. Inventario (Quick Sort)")
         print("2. Caja y Ventas (Voraz)")
